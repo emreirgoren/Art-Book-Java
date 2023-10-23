@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable selectimage
+id add_art
+id artistName
+id button
+id imageView
+id nameText
+id recyclerView
+id recyclerViewTextView
+id yearText
+layout activity_art
+layout activity_main
+layout recycler_row
+menu art_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ArtBookJava
+style Theme.ArtBookJava
+xml backup_rules
+xml data_extraction_rules

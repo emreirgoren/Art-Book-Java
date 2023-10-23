@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\canem\\.gradle\\daemon\\8.0\\com.emreirgoren.artbookjava.app-mergeDebugResources-30:\\layout\\activity_art.xml",
+        "source": "C:\\Users\\canem\\.gradle\\daemon\\8.0\\com.emreirgoren.artbookjava.app-main-33:\\layout\\activity_art.xml"
+    },
+    {
+        "merged": "C:\\Users\\canem\\.gradle\\daemon\\8.0\\com.emreirgoren.artbookjava.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\canem\\.gradle\\daemon\\8.0\\com.emreirgoren.artbookjava.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.emreirgoren.artbookjava.app-mergeDebugResources-30:/layout/recycler_row.xml",
+        "source": "com.emreirgoren.artbookjava.app-main-33:/layout/recycler_row.xml"
+    }
+]
